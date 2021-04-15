@@ -4,3 +4,6 @@ Stata Code for the Paper : How does information on minimum and maximum food pric
 
 
 The Do File Present the Computation of Absolute Poverty lines, and Poverty Dynamic Statistics in Niger. 
+
+
+Can't Share with you the Database
